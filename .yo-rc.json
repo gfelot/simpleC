@@ -1,0 +1,24 @@
+{
+  "generator-jhipster": {
+    "baseName": "simpleC",
+    "packageName": "io.ragnar",
+    "packageFolder": "io/ragnar",
+    "authenticationType": "session",
+    "hibernateCache": "ehcache",
+    "clusteredHttpSession": "no",
+    "websocket": "no",
+    "databaseType": "sql",
+    "devDatabaseType": "postgresql",
+    "prodDatabaseType": "postgresql",
+    "searchEngine": "no",
+    "useSass": false,
+    "buildTool": "maven",
+    "frontendBuilder": "grunt",
+    "enableTranslation": true,
+    "enableSocialSignIn": false,
+    "rememberMeKey": "3c9d5e8201788a2a06ba2b04317bb0ce947ffde1",
+    "testFrameworks": [
+      "gatling"
+    ]
+  }
+}
